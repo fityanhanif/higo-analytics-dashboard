@@ -165,4 +165,4 @@ with row3_col2:
 
 # Footer
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #A6A6A6; font-size: small;'>HIGO Data Analyst Assessment &copy; 2026 | Fityan Hanif Assalmi</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #A6A6A6; font-size: small;'>Data Analyst | Fityan Hanif Assalmi</p>", unsafe_allow_html=True)
